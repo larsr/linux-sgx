@@ -53,7 +53,7 @@ Build the Intel(R) SGX SDK and Intel(R) SGX PSW Package
   ```
   * On Ubuntu 18.04:
   ```
-    $ sudo apt-get install build-essential ocaml ocamlbuild automake autoconf libtool wget python libssl-dev git
+    $ sudo apt-get install build-essential ocaml ocamlbuild automake autoconf libtool wget python libssl-dev git cmake
   ```
   * On Red Hat Enterprise Linux 7.4, Red Hat Enterprise Linux 8.0 and CentOS 7.5:
   ```
